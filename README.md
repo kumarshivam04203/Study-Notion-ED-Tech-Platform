@@ -1,6 +1,4 @@
-# Study-Notion-ED-Tech-Platform
-
-# StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
+# Study-Notion-ED-Tech-Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
 
 ![Main Page](images/mainpage.png)
 
